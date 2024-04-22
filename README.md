@@ -1,5 +1,12 @@
 # Fine-tuning Open-Source LLMs to Small Languages
 
+**Link**: bit.ly/praguellm
+
+**Slides**:
+
+* https://docs.google.com/presentation/d/1wyVwD4CwWV9fpiqGyoyeSIk0JpmPeb8HWg40gSMBOM4/edit?usp=sharing
+* https://docs.google.com/presentation/d/1f8BQ6Dv1DUXLINoB2Mga4LjnPhL8OrsctCBoE9baHec/edit?usp=sharing
+
 **Exercises:**
 
 * [00_Sentiment_demo](00_Sentiment_demo.ipynb): Just to test Colab and explore the HF Hub.
