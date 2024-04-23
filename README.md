@@ -17,4 +17,4 @@
 * [05_Gemma7B](05_Gemma7B.ipynb): Benchmarking open models.
 * [06_QLoRA_finetuning](06_QLoRA_finetuning.ipynb): Let us fine-tune a model to your dataset!
 * [07_Save_Angelina](07_Save_Angelina.ipynb): Manipulating the model.
-* [08_Run_your_model_in_the_cloud](https://modal.com/docs/examples/vllm_inference): You can get a free $30 on [modal.com](https://modal.com/) to deploy your model.
+* [08_Run_your_model_in_the_cloud](deployment.py): You can get a free $30 on [modal.com](https://modal.com/docs/examples/vllm_inference) to deploy your model.
