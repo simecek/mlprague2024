@@ -21,5 +21,8 @@
 
 **Benchmarks:**
 
-* [mlprague](https://huggingface.co/datasets/simecek/mlprague): The benchmark we created together during the workshop, 111 A/B/C/D questions (41 Czech, 27 Slovak, 8 Italian, 7 French, 6 Ukrainian...)
-* [synczech50](https://huggingface.co/datasets/simecek/synczech50): Synthetic dataset of 50 Czech A/B/C/D questions for quick evaluation how the LMM understands Czech and Czech specific knowledge.
+* [mlprague](https://huggingface.co/datasets/simecek/mlprague): The benchmark we created together during the workshop, 111 A/B/C/D questions (🇨🇿 41, 🇸🇰 27, 🇮🇹 8, 🇫🇷 7, 🇺🇦 6...)
+* [synczech50](https://huggingface.co/datasets/simecek/synczech50): Synthetic dataset of 50 A/B/C/D questions for quick evaluation how the LMM understands Czech and Czech specific knowledge.
+
+**Small Czech LLM**:
+* [cswikimistral_0.1](https://huggingface.co/simecek/cswikimistral_0.1): Mistral7B model fine-tuned with 4bit-QLoRA on Czech Wikipedia data
