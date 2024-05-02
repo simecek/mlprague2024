@@ -18,3 +18,8 @@
 * [06_QLoRA_finetuning](06_QLoRA_finetuning.ipynb): Let us fine-tune a model to your dataset!
 * [07_Save_Angelina](07_Save_Angelina.ipynb): Manipulating the model.
 * [08_Run_your_model_in_the_cloud](deployment.py): You can get a free $30 on [modal.com](https://modal.com/docs/examples/vllm_inference) to deploy your model.
+
+**Benchmarks:**
+
+* [mlprague](https://huggingface.co/datasets/simecek/mlprague): The benchmark we created together during the workshop, 111 A/B/C/D questions (41 Czech, 27 Slovak, 8 Italian, 7 French, 6 Ukrainian...)
+* [synczech50](https://huggingface.co/datasets/simecek/synczech50): Synthetic dataset of 50 Czech A/B/C/D questions for quick evaluation how the LMM understands Czech and Czech specific knowledge.
